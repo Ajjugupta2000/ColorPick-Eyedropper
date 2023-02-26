@@ -1,0 +1,24 @@
+{
+    "name":"Color Picker",
+    "description":"A Color Picker chrome extension",
+    "version":"1.0",
+    "manifest_version":3,
+    "background":{
+        "service_worker":"js/bg.js"
+    },
+    "permissions":[
+        "storage",
+        "activeTab",
+        "scripting"
+    ],
+    "action":{
+        "default_popup":"pop.html"
+    },
+    "icons":{
+        "16":"images/pin2.png",
+        "32":"images/pin2.png",
+        "48":"images/pin2.png"
+    },
+    "options_page":"options.html"
+    
+}

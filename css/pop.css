@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Averia+Serif+Libre:wght@300&family=Concert+One&display=swap');*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 'Averia Serif Libre', cursive;
+    /* background-color: rgb(242,242,242); */
+    padding: 5px;
+}
+.container{
+    
+    width: 350px;
+    text-align: center;
+    display: flex;
+    border-bottom: 2px solid black;
+    align-items: center;
+    padding: 10px;
+}
+.container img{
+    width: 35px;
+    height: 35px;
+}
+#title{
+    color: black;
+    font-size: 19px;
+    font-weight: bold;
+    margin: 0px 5px;
+}
+.selectcolor p{
+    font-size: 17px;
+    color: black;
+}
+#btn{
+    font-weight: bold;
+    background-color: #04a266;
+    padding: 7px;
+    border-radius: 9px;
+    color: white;
+    cursor: pointer;
+    position: absolute;
+    right: 10px;
+    font-size: 16px;
+    border: none;
+}
+.selectcolor{
+    /* border: 1px solid gray; */
+    margin: 15px 0px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.selectcolor form input{
+    width:300px;
+    height: 200px;
+    margin: 10px 0px;
+}
+.colorwithcode{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#showcolor{
+    width: 100px;
+    height: 35px;   
+}
+#hexcode{
+    font-size: 20px;
+}
