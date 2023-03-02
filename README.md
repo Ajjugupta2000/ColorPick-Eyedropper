@@ -10,5 +10,8 @@ A Chrome Extension tool that allows you to select color values from webpages and
 # Chrome Extension Demo
 
 
-https://user-images.githubusercontent.com/72141908/222482777-c46334cb-da5f-4e50-b10f-5a7f8109eca6.mp4
+
+https://user-images.githubusercontent.com/72141908/222497544-fb0c6256-99ea-4a8f-b65c-35250aeb69d9.mp4
+
+
 
