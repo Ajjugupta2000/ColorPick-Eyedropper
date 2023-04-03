@@ -1,7 +1,7 @@
 # ColorPick-Eyedropper
 A Chrome Extension tool that allows you to select color values from webpages and more.
 
-# How to Use
+# How to Use 
 - Clone Repo or Download Zip     
   `https://github.com/Ajjugupta2000/ColorPick-Eyedropper.git`
 - Visit chrome://extensions/ and turn on "Developer mode"
